@@ -1,0 +1,10 @@
+[
+    {"id":"b1","title":"Clean Code","author":"Robert C. Martin","year":2008,"rating":4.6,"tags":["tech","non-fiction"],"description":"A handbook of agile software craftsmanship."},
+    {"id":"b2","title":"The Pragmatic Programmer","author":"Andrew Hunt, David Thomas","year":1999,"rating":4.7,"tags":["tech","non-fiction"],"description":"P ractical tips for better software development."},
+    {"id":"b3","title":"Dune","author":"Frank Herbert","year":1965,"rating":4.5,"tags":["fiction","fantasy"],"description":"E pic science fiction saga set on Arrakis."},
+    {"id":"b4","title":"Sapiens","author":"Yuval Noah Harari","year":2011,"rating":4.4,"tags":["history","non-fiction"],"description" :"A brief history of humankind."},
+    {"id":"b5","title":"Atomic Habits","author":"James Clear","year":2018,"rating":4.6,"tags":["self-help","non-fiction"],"description ":"Building good habits and breaking bad ones."},
+    {"id":"b6","title":"The Lord of the Rings","author":"J.R.R. Tolkien","year":1954,"rating":4.8,"tags":["fiction","fantasy"],"description":"C lassic high fantasy adventure."},
+    {"id":"b7","title":"The Mythical Man-Month","author":"Frederick P. Brooks Jr.","year":1975,"rating":4.2,"tags":["tech","non-fiction"],"description":"Essa ys on software engineering."},
+    {"id":"b8","title":"A Brief History of Time","author":"Stephen Hawking","year":1988,"rating":4.3,"tags":["science","non-fiction"],"description ":"Cosmology for a general audience."}
+]
